@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "instance_validator"
   gem.homepage = "http://github.com/pmen/instance_validator"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = "Apply ActiveModel validations at a model instance level" 
+  gem.description = "Apply ActiveModel validations at a model instance level" 
   gem.email = "paul@angel.co"
   gem.authors = ["Paul Menchov"]
   # dependencies defined in Gemfile

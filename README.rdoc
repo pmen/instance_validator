@@ -1,6 +1,6 @@
 = instance_validator
 
-Description goes here.
+Support applying default ActiveModel validations to model instances
 
 == Contributing to instance_validator
  
